@@ -2,12 +2,11 @@
 
 A new Flutter project.
 
-![ToDo App Screenshots](Screenshot1.png)
-![ToDo App Screenshots](Screenshot2.png)
-![ToDo App Screenshots](Screenshot3.png)
-![ToDo App Screenshots](Screenshot4.png)
-
+<img src="Screenshot1.png" alt="ToDo App Screenshot" width="400">
+<img src="Screenshot2.png" alt="ToDo App Screenshot" width="400">
+<img src="Screenshot3.png" alt="ToDo App Screenshot" width="400">
+<img src="Screenshot4.png" alt="ToDo App Screenshot" width="400">
 
 ## Credits
 
-This project was created following a tutorial by mitchkoko. You can find the original tutorial [https://youtu.be/mMgr47QBZWA?si=l6wzrtmi7G78DNaE](link-to-the-tutorial).
+This project was created following a tutorial by mitchkoko. You can find the original tutorial [here](https://youtu.be/mMgr47QBZWA?si=l6wzrtmi7G78DNaE).
