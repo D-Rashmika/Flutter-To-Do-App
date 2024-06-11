@@ -1,6 +1,6 @@
 # To Do App
 
-A new Flutter project.
+A new Simple Flutter project.
 
 <div>
     <img src="Screenshot1.png" alt="ToDo App Screenshot" style="width: 400px; margin-right: 20px;">
