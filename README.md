@@ -2,10 +2,15 @@
 
 A new Flutter project.
 
-<img src="Screenshot1.png" alt="ToDo App Screenshot" width="400">
-<img src="Screenshot2.png" alt="ToDo App Screenshot" width="400">
-<img src="Screenshot3.png" alt="ToDo App Screenshot" width="400">
-<img src="Screenshot4.png" alt="ToDo App Screenshot" width="400">
+<div>
+    <img src="Screenshot1.png" alt="ToDo App Screenshot" style="width: 400px; margin-right: 20px;">
+    <img src="Screenshot2.png" alt="ToDo App Screenshot" style="width: 400px; margin-right: 20px;">
+</div>
+
+<div>
+    <img src="Screenshot3.png" alt="ToDo App Screenshot" style="width: 400px; margin-right: 20px;">
+    <img src="Screenshot4.png" alt="ToDo App Screenshot" style="width: 400px;">
+</div>
 
 ## Credits
 
