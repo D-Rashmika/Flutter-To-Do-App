@@ -1,10 +1,10 @@
 # To Do App
 
-A new Flutter project.
+A new Simple Flutter project.
 
 <div>
-    <img src="Screenshot1.png" alt="ToDo App Screenshot" style="height: 300px; margin-right: 20px;">
-    <img src="Screenshot2.png" alt="ToDo App Screenshot" style="height: 300px; margin-right: 20px;">
+    <img src="Screenshot1.png" alt="ToDo App Screenshot" style="height: 300px; margin-right: 30px;">
+    <img src="Screenshot2.png" alt="ToDo App Screenshot" style="height: 300px; margin-right: 30px;">
 </div>
 
 <div>
